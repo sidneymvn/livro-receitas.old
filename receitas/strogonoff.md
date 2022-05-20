@@ -1,5 +1,5 @@
 ﻿
-# Strogonoff de frango
+# Strogonoff de frango 🐔
 
 **negrito**
 _itálico_
